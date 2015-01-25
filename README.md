@@ -11,7 +11,7 @@ Instructions:
 
 4. Check the "Developer mode" button at the top right
 
-5. Click "Load unpacked extension" and select the folder
+5. Click "Load unpacked extension" and select the folder you extracted
 
 6. You're done!
 
