@@ -7,12 +7,14 @@ Instructions:
 
 2. Extract the zip anywhere
 
-3. Open Chrome and go to the url "chrome://extensions"
+3. Change the list of blacklisted users. In the folder you extracted, open the file test.js and edit the list at the top.
 
-4. Check the "Developer mode" button at the top right
+4. Open Chrome and go to the url "chrome://extensions"
 
-5. Click "Load unpacked extension" and select the folder you extracted
+5. Check the "Developer mode" button at the top right
 
-6. You're done!
+6. Click "Load unpacked extension" and select the folder you extracted
 
-To change the list of blacklisted users, open the file test.js and edit the list at the top.
+7. You're done!
+
+
